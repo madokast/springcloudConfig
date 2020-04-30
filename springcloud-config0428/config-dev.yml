@@ -7,4 +7,4 @@ spring:
     password: 123456
 
 config:
-  info: "ver=5.1
+  info: "ver=5.1"
